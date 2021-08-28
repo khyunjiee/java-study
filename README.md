@@ -30,3 +30,27 @@
   <li>타입 추론, var</li>
  </ul>
 </details>
+<details>
+ <summary> 3주차 : 자바 연산자와 제어문 </summary>
+ <h2> 연산자 </h2>
+ <h3> 학습내용 </h3>
+ <ul>
+  <li>산술 연산자</li>
+  <li>비트 연산자</li>
+  <li>관계 연산자</li>
+  <li>논리 연산자</li>
+  <li>instanceof</li>
+  <li>assignment(=) operator</li>
+  <li>화살표(->) 연산자</li>
+  <li>3항 연산자</li>
+  <li>연산자 우선 순위</li>
+  <li>(optional) Java 13. switch 연산자</li>
+ </ul>
+ <br/>
+ <h2> 제어문 </h2>
+ <h3> 학습내용 </h3>
+ <ul>
+  <li>선택문</li>
+  <li>반복문</li>
+ </ul>
+</details>
