@@ -2,7 +2,7 @@
 
 [백기선님의 라이브 스터디](https://github.com/whiteship/live-study)의 주제로 공부합니다.
 
-## 진행
+## 진행÷
 <details>
  <summary> 1주차 : JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가. </summary>
  <h3> 학습내용 </h3>
@@ -52,5 +52,29 @@
  <ul>
   <li>선택문</li>
   <li>반복문</li>
+ </ul>
+</details>
+<details>
+ <summary> 4주차 : 클래스와 인터페이스 </summary>
+ <h2> 클래스 </h2>
+ <h3> 학습내용 </h3>
+ <ul>
+  <li>클래스 정의 방법</li>
+  <li>객체 만드는 방법 (new 이해하기)</li>
+  <li>메소드 정의 방법</li>
+  <li>생성자 정의 방법</li>
+  <li>this</li>
+ </ul>
+ <br/>
+ <h2> 인터페이스 </h2>
+ <h3> 학습내용 </h3>
+ <ul>
+  <li>인터페이스 정의 방법</li>
+  <li>인터페이스 구현 방법</li>
+  <li>인터페이스 레퍼런스를 통해 구현체를 사용하는 방법</li>
+  <li>인터페이스 상속</li>
+  <li>인터페이스의 기본 메소드 (Default Method)</li>
+  <li>인터페이스 static 메소드</li>
+  <li>인터페이스 private 메소드</li>
  </ul>
 </details>
